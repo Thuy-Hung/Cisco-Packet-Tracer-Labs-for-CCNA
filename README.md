@@ -1,1 +1,3 @@
-This repository about Cisco Packet Tracer lab for CCNA
+
+# CCNA 200-301 course
+ Practice labs

@@ -1,49 +1,37 @@
-Overview
+# Cisco Packet Tracer Labs for CCNA
+
+## Overview
 
 This repository contains a collection of completed Cisco Packet Tracer labs covering various topics from the CCNA (Cisco Certified Network Associate) curriculum. The labs provide hands-on practice for networking concepts, helping learners reinforce their understanding through simulations.
 
-Features
+## Features
 
-Practical exercises on core CCNA topics
+- Practical exercises on core CCNA topics
+- Packet Tracer files (.pkt) for each lab
+- Well-documented configurations and topologies
 
-Packet Tracer files (.pkt) for each lab
-
-Well-documented configurations and topologies
-
-Step-by-step instructions for selected labs
-
-Topics Covered
+## Topics Covered
 
 The labs include, but are not limited to, the following CCNA topics:
 
-Basic Networking: IP addressing, subnetting, and network topology setup
+- **Basic Networking**: IP addressing, subnetting, and network topology setup
+- **Routing**: Static routing, RIP, OSPF, and EIGRP
+- **Switching**: VLANs, trunking, STP, and EtherChannel
+- **Security**: ACLs, port security, and DHCP snooping
+- **WAN Technologies**: PPP, Frame Relay, and VPN
+- **IPv6 Networking**: Addressing, routing, and transition mechanisms
+- **Network Services**: DHCP, DNS, NAT, and Syslog
 
-Routing: Static routing, RIP, OSPF, and EIGRP
+## Requirements
 
-Switching: VLANs, trunking, STP, and EtherChannel
+- Cisco Packet Tracer (latest version recommended)
+- Basic understanding of networking concepts
 
-Security: ACLs, port security, and DHCP snooping
+## Installation & Usage
 
-WAN Technologies: PPP, Frame Relay, and VPN
+1. Clone this repository:
 
-IPv6 Networking: Addressing, routing, and transition mechanisms
-
-Network Services: DHCP, DNS, NAT, and Syslog
-
-Requirements
-
-Cisco Packet Tracer (latest version recommended)
-
-Basic understanding of networking concepts
-
-Installation & Usage
-
-Clone this repository:
-
-git clone https://github.com/yourusername/cisco-pt-labs.git
-
-Open Cisco Packet Tracer.
-
-Load any .pkt file from the repository.
-
-Follow the provided instructions and experiment with configurations.
+   ```bash
+   git clone https://github.com/yourusername/cisco-pt-labs.git
+2. Open Cisco Packet Tracer.
+3. Load any .pkt file from the repository.

@@ -32,6 +32,6 @@ The labs include, but are not limited to, the following CCNA topics:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/cisco-pt-labs.git
+   https://github.com/Thuy-Hung/Cisco-Packet-Tracer-Labs-for-CCNA.git
 2. Open Cisco Packet Tracer.
 3. Load any .pkt file from the repository.

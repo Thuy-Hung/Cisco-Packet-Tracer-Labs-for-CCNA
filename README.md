@@ -1,3 +1,49 @@
+Overview
 
-# CCNA 200-301 course
- Practice labs
+This repository contains a collection of completed Cisco Packet Tracer labs covering various topics from the CCNA (Cisco Certified Network Associate) curriculum. The labs provide hands-on practice for networking concepts, helping learners reinforce their understanding through simulations.
+
+Features
+
+Practical exercises on core CCNA topics
+
+Packet Tracer files (.pkt) for each lab
+
+Well-documented configurations and topologies
+
+Step-by-step instructions for selected labs
+
+Topics Covered
+
+The labs include, but are not limited to, the following CCNA topics:
+
+Basic Networking: IP addressing, subnetting, and network topology setup
+
+Routing: Static routing, RIP, OSPF, and EIGRP
+
+Switching: VLANs, trunking, STP, and EtherChannel
+
+Security: ACLs, port security, and DHCP snooping
+
+WAN Technologies: PPP, Frame Relay, and VPN
+
+IPv6 Networking: Addressing, routing, and transition mechanisms
+
+Network Services: DHCP, DNS, NAT, and Syslog
+
+Requirements
+
+Cisco Packet Tracer (latest version recommended)
+
+Basic understanding of networking concepts
+
+Installation & Usage
+
+Clone this repository:
+
+git clone https://github.com/yourusername/cisco-pt-labs.git
+
+Open Cisco Packet Tracer.
+
+Load any .pkt file from the repository.
+
+Follow the provided instructions and experiment with configurations.
